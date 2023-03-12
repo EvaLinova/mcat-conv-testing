@@ -1,2 +1,2 @@
 # mcat-conv-testing
-This is a base program for the testing scenario of my bachelor thesis.
+Tento repozitář obsahuje webovou stránku vytvořená v JS s HTML a obsahuje dva testy pro testovací scénář mé bakalářské práce na téma "Umělá inteligence ve vzdělávání". Tyto testy jsou: počítačově adaptivní testy (CAT) a lineární běžné testování bez prvku umělé inteligence.
